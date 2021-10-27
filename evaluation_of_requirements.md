@@ -18,11 +18,11 @@ These goals have been given reference values that will be used throughout the So
 
 The Requirements have been tagged with a code in the same way the Primary Goals have to help highlight which parts of the Solution Design relates to them.
 
-**[RQ1]** Add a new system to manage customer profiles, allowing community engagement, personalization around preferences and dietary needs
+**[RQ1]** Add a new system to manage customer profiles, allowing community engagement, personalization around preferences and dietary needs.
 
-**[RQ2]** Support geographical trend analysis to hone Farmacy Family’s ability to optimize the foods delivered to fridges (an additional integration point TO Farmacy Foods)
+**[RQ2]** Support geographical trend analysis to hone Farmacy Family’s ability to optimize the foods delivered to fridges (an additional integration point TO Farmacy Foods).
 
-**[RQ3]** Support both push and pull models for community engagement. In other words, Farmacy Family will manage forums,emails, and create connections between similar demographics. Farmacy Family needs transactional member information for outreach purposes. The engagement model includes subscriptions, forums, reference material, class information, and other media that supports Food-as-medicine
+**[RQ3]** Support both push and pull models for community engagement. In other words, Farmacy Family will manage forums,emails, and create connections between similar demographics. Farmacy Family needs transactional member information for outreach purposes. The engagement model includes subscriptions, forums, reference material, class information, and other media that supports Food-as-medicine.
 
 **[RQ4]** eDietian has access customer profile to improve advice and monitoring of customers. Additionally, the customer and dietitian can interact via messages.
 
@@ -42,4 +42,8 @@ The Non-Functional Requirements are contained with the document but are called o
 
 **[NFR1]** The new system must seamlessly incorporate into Farmacy Foods.
 
+*Design Approach:* Utilise assets that Farmacy Foods already has established, making them cross cutting technologies. Design with the assumption that changes to Farmacy Foods should be at a minimum and heavy lifting will sit within Farmacy Family. UX should have the same look and feel to the point where customers should be able to seamlessly transverse the applications without noticing they've moved between Farmacy Family and Farmacy Friends.
+
 **[NFR2]** Improved use of analytics driven through the new integration of Farmacy Family will help gather new investors and prove better dietary outcomes in member communities.
+
+*Design Approach:* This forms a concrete reporting requirement. We need to be able to evidence key metrics and undertsand the baseline data Farmacy Family will need to report on this.
