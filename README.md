@@ -26,3 +26,6 @@ We hope you enjoy our approach and welcome any and all questions around our solu
   - Assumptions Log
   - Solution Approach
   - ADRs
+
+## Resources
+- [Miro Designs](https://miro.com/welcomeonboard/OGFjTmZaMTVlVjNvT29jVlRsWlR0VnBoalN1V254MDd6ck96YlhCaDZSelA0S29BNTl1QjVMdG9CUUdWOHJxaHwzMDc0NDU3MzU1NzcyMzkwNzc5?invite_link_id=336145793887)
