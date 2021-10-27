@@ -23,6 +23,7 @@ We hope you enjoy our approach and welcome any and all questions around our solu
   - Incumbent System Analysis
   - High-Level Design
   - Technical Design
+  - Domain
   - Assumptions Log
   - Solution Ethos
   - ADRs
