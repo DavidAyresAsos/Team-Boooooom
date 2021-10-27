@@ -22,7 +22,7 @@ The Requirements have been tagged with a code in the same way the Primary Goals 
 
 **[RQ2]** Support geographical trend analysis to hone Farmacy Family’s ability to optimize the foods delivered to fridges (an additional integration point TO Farmacy Foods).
 
-**[RQ3]** Support both push and pull models for community engagement. In other words, Farmacy Family will manage forums,emails, and create connections between similar demographics. Farmacy Family needs transactional member information for outreach purposes. The engagement model includes subscriptions, forums, reference material, class information, and other media that supports Food-as-medicine.
+**[RQ3]** Support both push and pull models for community engagement. In other words, Farmacy Family will manage forums, emails, and create connections between similar demographics. Farmacy Family needs transactional member information for outreach purposes. The engagement model includes subscriptions, forums, reference material, class information, and other media that supports Food-as-medicine.
 
 **[RQ4]** eDietian has access customer profile to improve advice and monitoring of customers. Additionally, the customer and dietitian can interact via messages.
 
