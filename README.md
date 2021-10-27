@@ -19,10 +19,10 @@ We hope you enjoy our approach and welcome any and all questions around our solu
 ## The Solution
 - Evaluation of Requirements
 - Solution Overview
--- Overview
--- Incumbent System Analysis
--- High-Level Design
--- Technical Design
--- Assumptions Log
--- Solution Approach
--- ADRs
+  - Overview
+  - Incumbent System Analysis
+  - High-Level Design
+  - Technical Design
+  - Assumptions Log
+  - Solution Approach
+  - ADRs
