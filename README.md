@@ -24,7 +24,7 @@ We hope you enjoy our approach and welcome any and all questions around our solu
   - High-Level Design
   - Technical Design
   - Assumptions Log
-  - Solution Approach
+  - Solution Ethos
   - ADRs
 
 ## Resources
