@@ -17,7 +17,7 @@ We hope you enjoy our approach and welcome any and all questions around our solu
 - T.B.C (The manager)
 
 ## The Solution
-- [Evaluation of Requirements](https://github.com/DavidAyresAsos/Team-Boooooom/blob/main/evaluation_of_requirements.md)
+- [Evaluation of Requirements](https://github.com/DavidAyresAsos/Team-Boooooom/blob/main/Kata%20Autumn%202021/evaluation_of_requirements.md)
 - Solution Overview
   - Overview
   - Incumbent System Analysis
@@ -27,7 +27,7 @@ We hope you enjoy our approach and welcome any and all questions around our solu
   - Assumptions Log
   - Solution Ethos
   - ADRs
-    - [[ADR1] User Profile Storage](https://github.com/DavidAyresAsos/Team-Boooooom/blob/main/ADR1_User_Profile_Storage.md)
+    - [[ADR1] User Profile Storage](https://github.com/DavidAyresAsos/Team-Boooooom/blob/main/Kata%20Autumn%202021/ADR1_User_Profile_Storage.md)
 
 ## Resources
 - [Miro Designs](https://miro.com/welcomeonboard/OGFjTmZaMTVlVjNvT29jVlRsWlR0VnBoalN1V254MDd6ck96YlhCaDZSelA0S29BNTl1QjVMdG9CUUdWOHJxaHwzMDc0NDU3MzU1NzcyMzkwNzc5?invite_link_id=336145793887)

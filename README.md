@@ -8,8 +8,8 @@ We were unable to dedicate enough time to design and document a soluton to a qua
 
 We will make sure that we will be more than ready for the next challenge when it comes along.
 
-We have [archived](https://github.com/DavidAyresAsos/Team-Boooooom/blob/main/evaluation_of_requirements.md) off what we were able to produce for future reference.
+We have [archived](https://github.com/DavidAyresAsos/Team-Boooooom/tree/main/Kata%20Autumn%202021) off what we were able to produce for future reference.
 
 Kindest regards,
 
-Devrin, Sertan Yamaner and David.
+Devrin, Sertan and David.
